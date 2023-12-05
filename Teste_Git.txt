@@ -1,4 +1,8 @@
 Teste de GitDesktop
 
-
 Sergio iniciou o desenvolvimento do arquivo
+
+1 - Criar etapas de desenvolvimento com padronização de atividades/tarefas;
+2 - Priorizar atividades/tarefas por "sprint" semanal;
+3 - Documentação;
+4 - Minimizar o tempos de preparação de testes e liberação de versão.
